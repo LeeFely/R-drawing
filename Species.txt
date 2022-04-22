@@ -1,0 +1,7 @@
+Viruses	noname	31.42034
+Bacteria	Bacteroidetes	31.27472
+Bacteria	Fibrobacteres	24.74666
+Bacteria	Firmicutes	8.06092
+Bacteria	Spirochaetes	2.32585
+Archaea	Euryarchaeota	1.42253
+Bacteria	Proteobacteria	0.74899

@@ -1,0 +1,46 @@
+Ontology ,Term,GO_ID,Input_number,Percentage
+Biological process,signal transduction,GO:0007165,72,8.062709966
+Biological process,positive regulation of transcription from RNA polymerase II promoter,GO:0045944,66,7.390817469
+Biological process,negative regulation of transcription from RNA polymerase II promoter,GO:0000122,64,7.166853303
+Biological process,cell adhesion,GO:0007155,46,5.151175812
+Biological process,positive regulation of cell proliferation,GO:0008284,41,4.591265398
+Biological process,"positive regulation of transcription, DNA-templated",GO:0045893,40,4.479283315
+Biological process,transcription from RNA polymerase II promoter,GO:0006366,39,4.367301232
+Biological process,positive regulation of GTPase activity,GO:0043547,38,4.255319149
+Biological process,oxidation-reduction process,GO:0055114,37,4.143337066
+Biological process,cell proliferation,GO:0008283,36,4.031354983
+Biological process,multicellular organism development,GO:0007275,34,3.807390817
+Biological process,positive regulation of apoptotic process,GO:0043065,32,3.583426652
+Biological process,extracellular matrix organization,GO:0030198,31,3.471444569
+Biological process,positive regulation of gene expression,GO:0010628,30,3.359462486
+Biological process,negative regulation of apoptotic process,GO:0043066,29,3.247480403
+Cellular component,cytoplasm,GO:0005737,299,33.48264278
+Cellular component,plasma membrane,GO:0005886,250,27.99552072
+Cellular component,cytosol,GO:0005829,193,21.61254199
+Cellular component,integral component of plasma membrane,GO:0005887,95,10.63829787
+Cellular component,extracellular space,GO:0005615,93,10.41433371
+Cellular component,cell surface,GO:0009986,65,7.278835386
+Cellular component,Golgi apparatus,GO:0005794,51,5.711086226
+Cellular component,endoplasmic reticulum,GO:0005783,50,5.599104143
+Cellular component,focal adhesion,GO:0005925,46,5.151175812
+Cellular component,cytoskeleton,GO:0005856,44,4.927211646
+Cellular component,cell-cell adherens junction,GO:0005913,35,3.9193729
+Cellular component,cell junction,GO:0030054,33,3.695408735
+Cellular component,extracellular matrix,GO:0031012,31,3.471444569
+Cellular component,proteinaceous extracellular matrix,GO:0005578,29,3.247480403
+Cellular component,apical plasma membrane,GO:0016324,25,2.799552072
+Molecular function,protein binding,GO:0005515,455,50.9518477
+Molecular function,protein homodimerization activity,GO:0042803,60,6.718924972
+Molecular function,"transcription factor activity, sequence-specific DNA binding",GO:0003700,59,6.606942889
+Molecular function,calcium ion binding,GO:0005509,58,6.494960806
+Molecular function,identical protein binding,GO:0042802,49,5.48712206
+Molecular function,sequence-specific DNA binding,GO:0043565,41,4.591265398
+Molecular function,protein heterodimerization activity,GO:0046982,34,3.807390817
+Molecular function,RNA polymerase II core promoter proximal region sequence-specific DNA binding,GO:0000978,31,3.471444569
+Molecular function,cadherin binding involved in cell-cell adhesion,GO:0098641,31,3.471444569
+Molecular function,structural molecule activity,GO:0005198,29,3.247480403
+Molecular function,protein kinase binding,GO:0019901,27,3.023516237
+Molecular function,"transcriptional activator activity, RNA polymerase II core promoter proximal region sequence-specific binding",GO:0001077,26,2.911534155
+Molecular function,enzyme binding,GO:0019899,26,2.911534155
+Molecular function,actin binding,GO:0003779,24,2.687569989
+Molecular function,transcription factor binding,GO:0008134,23,2.575587906
